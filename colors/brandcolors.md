@@ -1,8 +1,5 @@
 The following colors are what makes up most of our branding. Attached are names.
 
-
-
-
 - Trustworthy Blue - `#1589F0` ![#003366](https://placehold.co/5/003366/003366.png) 
 - Clean Turquoise - `#7FDBFF` ![#7FDBFF](https://placehold.co/5/7FDBFF/7FDBFF.png)
 - White - `#FFFFFF` ![#FFFFFF](https://placehold.co/5/FFFFFF/FFFFFF.png)
