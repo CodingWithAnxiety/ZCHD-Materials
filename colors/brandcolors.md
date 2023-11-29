@@ -10,4 +10,4 @@ The following colors are what makes up most of our branding. Attached are names.
 
 In this folder is also an image, which showcases all of these colors with their names.
 
-The "Python" folder includes the python code used to create the image. This includes a [README](./python/README.md) file which guides you through running said script yourself.
+The "Python" folder includes the [python code](./python/displaycolor.py) used to create the image. This includes a [README](./python/README.md) file which guides you through running said script yourself.
