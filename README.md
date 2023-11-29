@@ -5,9 +5,9 @@ This repository contains all of our open-sourced branding, organized each into s
 The included folders, to date, are;
 
 - [colors](./colors)
-    - Templates used for the creation of documents with ZCHD, including odt (libreoffice) & docx (Google docs / word)
-- [doc-templates](./doc-templates/)
     - Colors used in logos, outfits, and other branding
+- [doc-templates](./doc-templates/)
+    - Templates used for the creation of documents with ZCHD, including odt (libreoffice) & docx (Google docs / word) 
 - [pngs](./pngs/)
     - PNG images used in branding, such as logos.
 - [svts](./svgs/)
