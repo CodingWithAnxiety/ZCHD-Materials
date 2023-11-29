@@ -11,4 +11,4 @@ Growth Green	#085E2B
 
 In this folder is also an image, which showcases all of these colors with their names.
 
-The "Python" folder includes the python code used to create the image. THis includes an 'env' virtual environment folder which contains all the needed libraries to run the code from source. 
+The "Python" folder includes the python code used to create the image. This includes a [README](./python/README.md) file which guides you through running said script yourself.
