@@ -10,7 +10,7 @@ The included folders, to date, are;
     - Templates used for the creation of documents with ZCHD, including odt (libreoffice) & docx (Google docs / word) 
 - [pngs](./pngs/)
     - PNG images used in branding, such as logos.
-- [svts](./svgs/)
+- [svgs](./svgs/)
     - SVG images used in branding, such as logos.
 
 It also contains applicable code for certain projects, such as [displaycolor.py](./Colors/python/displaycolor.py).
